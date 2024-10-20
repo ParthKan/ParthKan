@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Kansara</h1>
 <h3 align="center">Creative Full Stack Developer based in India</h3>
+ 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=parthkan&label=Profile%20views&color=0e75b6&style=flat" alt="parthkan" /> </p>
 
 # 💫 About Me:
 - 🔭 I’m currently working at [Master Technolabs](https://mastertechnolabs.com/)<br><br>- 🌱 Learning Journey **I’m always eager to expand my skill set.**<br><br>- 💬 Ask me about **I’m open to discussing web development or any tech-related topics! Don’t hesitate to reach out.**<br><br>- 📫 How to reach me **parthka854@gmail.com**
@@ -17,8 +19,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=parthkan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=parthkan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
