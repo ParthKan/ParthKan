@@ -27,11 +27,14 @@
         </td>
     </tr>
     <tr>
-        <td style="text-align: left; border: none;">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthkan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="parthkan" />
+        <td colspan="2" style="border: none;">
+            <div style="background-color: #1e1e2f; padding: 10px; text-align: left;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parthkan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="parthkan" />
+            </div>
         </td>
     </tr>
 </table>
+
 
 <br> <!-- Add a line break for spacing -->
 
