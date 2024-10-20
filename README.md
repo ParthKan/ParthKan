@@ -26,11 +26,15 @@
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthkan&theme=tokyonight" alt="parthkan" />
         </td>
     </tr>
+    <tr>
+        <td style="text-align: left; border: none;">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthkan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="parthkan" />
+        </td>
+    </tr>
 </table>
 
 <br> <!-- Add a line break for spacing -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthkan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="parthkan" />
 
 
 
