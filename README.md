@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Kansara</h1>
-<h3 align="center">Creative full stack developer based in India, passionate about building efficient and scalable web applications.</h3>
+<h3 align="center">Creative full stack developer based in India</h3>
 
 - 🔭 I’m currently working at [Master Technolabs](https://mastertechnolabs.com/)
 
